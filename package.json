@@ -1,7 +1,7 @@
 {
   "name": "abrigo-animais",
   "version": "1.0.0",
-  "description": "",
+  "description": "Para completar a etapa do desafio você terá que baixar a estrutura do código aqui na Azure, resolver o desafio usando Javascript e entregá-lo no repositório no seu github.",
   "type": "module",
   "scripts": {
     "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
@@ -10,6 +10,15 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "jest": "^29.6.2"
-  }
+    "jest": "^29.7.0"
+  },
+  "main": "jest.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jabegel/StartDB-2025.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Jabegel/StartDB-2025/issues"
+  },
+  "homepage": "https://github.com/Jabegel/StartDB-2025#readme"
 }
