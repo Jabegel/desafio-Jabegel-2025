@@ -90,4 +90,4 @@ class AbrigoAnimais {
   }
 }
 
-export { AbrigoAnimais };
+export { AbrigoAnimais as AbrigoAnimais };
